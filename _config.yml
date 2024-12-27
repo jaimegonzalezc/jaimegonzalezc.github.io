@@ -223,3 +223,9 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+nav:
+  - title: "Blog"
+    url: /
+  - title: "Currículum"
+    url: /cv/
